@@ -31,7 +31,7 @@ This project is designed to extract specific types of data from text using regul
 
    cd alu_regex-data-extraction-supserrr
 
-#### Running the script
+### Running the script
 
    ```sh
    python extractor.py
