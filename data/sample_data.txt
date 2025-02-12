@@ -1,0 +1,10 @@
+Contact us at support@example.com or sales@company.co.uk.
+Visit our website at https://www.example.com or http://subdomain.example.org/page.
+Call us at (123) 456-7890, 123-456-7890, or 123.456.7890.
+The meeting is scheduled for 14:30 or 2:30 PM.
+Our credit card number is 1234 5678 9012 3456 or 1234-5678-9012-3456.
+<p>This is a paragraph.</p>
+<div class="example">This is a div.</div>
+<img src="image.jpg" alt="description">
+Check out #example and #ThisIsAHashtag.
+The cost is $19.99 or $1,234.56.
