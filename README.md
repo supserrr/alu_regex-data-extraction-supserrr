@@ -29,6 +29,7 @@ This project is designed to extract specific types of data from text using regul
 
 3. Navigate into the project directory:
 
+   ```sh
    cd alu_regex-data-extraction-supserrr
 
 ### Running the script
